@@ -35,3 +35,16 @@
 *://*.dotnettutorials.net/*
 *://*.ourcodeworld.com/*
 *://*.juejin.cn/*
+*://*.bitcoden.com/*
+*://*.nibes.cn/*
+*://*.thecodeteacher.com/*
+*://*.phohen.com/*
+*://*.adoclib.com/*
+*://*.learn-codes.net/*
+*://*.tistory.com/*
+*://*.brainly.college/*
+*://*.senin.live/*
+*://*.negeri.live/*
+*://*.idqna.com/*
+*://*.webarchive.live/*
+*://*.stackubuntu.com/*
