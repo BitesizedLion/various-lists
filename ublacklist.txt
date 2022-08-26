@@ -1,0 +1,11 @@
+*://thewebdev.info/*
+*://*.pakainfo.com/*
+*://*.includehelp.com/*
+*://*.cloudhadoop.com/*
+*://*.nerdutella.com/*
+*://*.folkstalk.com/*
+*://*.codehunter.com/*
+*://*.codingexplained.com/*
+*://*.quick-advisors.com/*
+*://*.laratutorials.com/*
+*://*.geeksforgeeks.org/*
