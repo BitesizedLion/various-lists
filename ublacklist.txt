@@ -1,3 +1,4 @@
+# StackOverflow Mirrors
 *://*.thewebdev.info/*
 *://*.pakainfo.com/*
 *://*.includehelp.com/*
@@ -48,3 +49,23 @@
 *://*.idqna.com/*
 *://*.webarchive.live/*
 *://*.stackubuntu.com/*
+
+# Misc Spam
+*://*.medium.website/*
+*://*.wikitechy.com/*
+
+# Fake Hosting Locations
+*://*.evoxt.com/*
+*://*.nyberway.com/*
+*://*.kvchosting.net/*
+*://*.hebronhost.com/*
+*://*.beyondesigns.net/*
+*://*.obiztek.com/*
+*://*.rootpal.com/*
+
+# PR Companies
+*://*.einnews.com/*
+*://*.einpresswire.com/*
+
+# Google Maps / Yelp Mirrors
+*://*.vymaps.com/*
