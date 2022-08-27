@@ -71,3 +71,7 @@
 *://graphicmama.com/*
 *://www.pngkit.com/*
 *://*.wanecque.com/* 
+*://*.dreamstime.com/*
+*://*.dlf.pt/*
+*://*.brandskyltd.com/*
+*://*.freepikpsd.com/*
