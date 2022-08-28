@@ -49,6 +49,7 @@
 *://*.idqna.com/*
 *://*.webarchive.live/*
 *://*.stackubuntu.com/*
+*://*.codeutility.org/*
 
 # Misc Spam
 *://*.medium.website/*
