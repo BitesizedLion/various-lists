@@ -98,6 +98,7 @@
 *://*.ui-code.com/*
 *://*.linuxlinks.com/*
 *://*.towardsdatascience.com/*
+*://*.how2shout.com/*
 
 # Insights/Stats/Package Info Spam
 *://*.openbase.com/*
