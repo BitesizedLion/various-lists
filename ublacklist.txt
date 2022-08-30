@@ -1,4 +1,4 @@
-# StackOverflow Mirrors
+# StackOverflow/Github Mirrors
 *://*.thewebdev.info/*
 *://*.pakainfo.com/*
 *://*.includehelp.com/*
@@ -50,10 +50,14 @@
 *://*.webarchive.live/*
 *://*.stackubuntu.com/*
 *://*.codeutility.org/*
+*://*.hotexamples.com/*
 
 # Misc Spam
 *://*.medium.website/*
 *://*.wikitechy.com/*
+*://groups.google.com/*
+*://books.google.com/*
+*://books.google.se/*
 
 # Fake Hosting Locations
 *://*.evoxt.com/*
@@ -70,3 +74,35 @@
 
 # Google Maps / Yelp Mirrors
 *://*.vymaps.com/*
+
+# "How To" Spam
+*://*.zoomadmin.com/*
+*://*.devmanuals.net/*
+*://*.howtoinstall.co/*
+*://*.howtoinstall.me/*
+*://*.thelinuxfaq.com/*
+*://*.installati.one/*
+*://*.linux-packages.com/*
+*://*.lost-and-found-narihiro.blogspot.com/*
+*://*.installonlinux.com/*
+*://*.onstartup.ru/*
+*://*.devpick.io/*
+*://*.kali.tools/*
+*://*.qiita.com/*
+*://*.kifarunix.com/*
+*://*.cmsdk.com/*
+*://*.pythonmana.com/*
+*://*.thepythoncode.com/*
+*://*.debugger.wiki/*
+*://*.ui-code.com/*
+*://*.linuxlinks.com/*
+*://*.towardsdatascience.com/*
+
+# Insights/Stats/Package Info Spam
+*://*.openbase.com/*
+*://*.activestate.com/*
+*://*.libraries.io/*
+*://*.package.wiki/*
+*://*.libhunt.com/*
+*://*.cnpython.com/*
+*://*.gitplanet.com/*
