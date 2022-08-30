@@ -51,6 +51,7 @@
 *://*.stackubuntu.com/*
 *://*.codeutility.org/*
 *://*.hotexamples.com/*
+*://*.programmersought.com/*
 
 # Misc Spam
 *://*.medium.website/*
