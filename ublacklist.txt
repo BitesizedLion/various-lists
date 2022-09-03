@@ -120,3 +120,13 @@
 *://*.medium.com/@Pinterest_Engineering
 *://www.facebook.com/PinterestUK/
 *://apps.microsoft.com/store/detail/9PFHDSF91B9R*
+
+# Solution/Fixes Spam
+*://*.windowsreport.com/*
+*://*.unbate.com/*
+*://*.ngontinh24.com/*
+*://*.tech-blogs.com/*
+*://*.theburningofrome.com/*
+*://*.windowsboy.com/*
+*://*.tech-wiki.online/*
+*://*.ru-facts.com/*
