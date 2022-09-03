@@ -59,6 +59,8 @@
 *://groups.google.com/*
 *://books.google.com/*
 *://books.google.se/*
+*://*.brianlovin.com/*
+*://*.izooto.com/*
 
 # Fake Hosting Locations
 *://*.evoxt.com/*
@@ -130,3 +132,9 @@
 *://*.windowsboy.com/*
 *://*.tech-wiki.online/*
 *://*.ru-facts.com/*
+*://*.online-tech-tips.com/*
+*://*.hongkiat.com/*
+*://*.basic-tutorials.com/*
+*://*.whatsnewinpublishing.com/*
+*://*.geeksgyaan.com/*
+*://*.maketecheasier.com/*
