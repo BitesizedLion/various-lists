@@ -52,6 +52,8 @@
 *://*.codeutility.org/*
 *://*.hotexamples.com/*
 *://*.programmersought.com/*
+*://*.tabnine.com/*
+*://*.pullanswer.com/*
 
 # Misc Spam
 *://*.medium.website/*
