@@ -54,6 +54,43 @@
 *://*.programmersought.com/*
 *://*.tabnine.com/*
 *://*.pullanswer.com/*
+*://*.masteringjs.io/*
+*://*.stackabuse.com/*
+*://*.atomizedobjects.com/*
+*://*.javascripttutorial.net/*
+*://*.dofactory.com/*
+*://*.futurestud.io/*
+*://*.tutorialspoint.com/*
+*://*.love2dev.com/*
+*://*.plainenglish.io/*
+*://*.edupala.com/*
+*://*.developintelligence.com/*
+*://*.delftstack.com/*
+*://*.30secondsofcode.org/*
+*://*.thisinterestsme.com/*
+*://*.c-sharpcorner.com/*
+*://*.codingem.com/*
+*://*.typin.dev/*
+*://*.ceos3c.com/*
+*://*.dottedsquirrel.com/*
+*://*.2ality.com/*
+*://*.gitconnected.com/*
+*://*.mkyong.com/*
+*://*.careerkarma.com/*
+*://*.javatpoint.com/*
+*://*.resultfor.dev/*
+*://*.tutorialstonight.com/*
+*://*.javawenti.com/*
+*://*.holadevs.com/*
+*://*.javaprogramto.com/*
+*://*.jscurious.com/*
+*://*.attacomsian.com/*
+*://*.tutorialkart.com/*
+*://*.skillsugar.com/*
+*://*.betterprogramming.pub/*
+*://*.researchhubs.com/*
+*://*.codehasbug.com/*
+*://*.rotadev.com/*
 
 # Misc Spam
 *://*.medium.website/*
@@ -63,6 +100,7 @@
 *://books.google.se/*
 *://*.brianlovin.com/*
 *://*.izooto.com/*
+*://*.hackingwithswift.com/*
 
 # Fake Hosting Locations
 *://*.evoxt.com/*
@@ -103,6 +141,17 @@
 *://*.linuxlinks.com/*
 *://*.towardsdatascience.com/*
 *://*.how2shout.com/*
+*://*.learn.co/*
+*://*.bobbyhadz.com/*
+*://*.sololearn.com/*
+*://*.programiz.com/*
+*://*.learnjavascript.online/*
+*://*.appdividend.com/*
+*://*.codeproject.com/*
+*://*.clubmate.fi/*
+*://*.kodify.net/*
+*://*.code4it.dev/* # misinformation
+*://*.flaviocopes.com/*
 
 # Insights/Stats/Package Info Spam
 *://*.openbase.com/*
