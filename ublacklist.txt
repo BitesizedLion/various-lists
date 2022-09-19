@@ -91,6 +91,10 @@
 *://*.researchhubs.com/*
 *://*.codehasbug.com/*
 *://*.rotadev.com/*
+*://*.techinplanet.com/*
+*://*.code-error.com/*
+*://*.issuecloser.com/*
+*://*.web-dev-qa-db-ja.com/*
 
 # Misc Spam
 *://*.medium.website/*
@@ -152,6 +156,7 @@
 *://*.kodify.net/*
 *://*.code4it.dev/* # misinformation
 *://*.flaviocopes.com/*
+*://*.codesource.io/*
 
 # Insights/Stats/Package Info Spam
 *://*.openbase.com/*
@@ -189,3 +194,6 @@
 *://*.whatsnewinpublishing.com/*
 *://*.geeksgyaan.com/*
 *://*.maketecheasier.com/*
+
+# Blog Spam
+*://*.dunebook.com/*
