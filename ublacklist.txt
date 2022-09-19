@@ -167,6 +167,7 @@
 *://*.libhunt.com/*
 *://*.cnpython.com/*
 *://*.gitplanet.com/*
+*://*.openweaver.com/*
 
 # Pinterest (& Clones)
 *://*.flipboard.com/*
