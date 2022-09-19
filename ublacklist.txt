@@ -215,3 +215,19 @@
 # Blog Spam
 *://*.dunebook.com/*
 *://*.spritely.net/*
+
+# Scareware Sites
+*://*.softwarekeep.com/*
+*://*.minitool.com/*
+*://*.2-spyware.com/*
+*://*.howtodoninja.com/*
+*://*.theitbros.com/*
+*://*.wintips.org/*
+*://*.neuber.com/*
+*://*.windowsphoneinfo.com/*
+*://*.whatsabyte.com/*
+*://*.diskinternals.com/*
+*://*.technewstoday.com/*
+*://*.file.net/*
+*://*.techsupportall.com/*
+*://*.gloryittechnologies.com/*
