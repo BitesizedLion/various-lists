@@ -95,6 +95,7 @@
 *://*.code-error.com/*
 *://*.issuecloser.com/*
 *://*.web-dev-qa-db-ja.com/*
+*://*.bytemeta.vip/*
 
 # Misc Spam
 *://*.medium.website/*
