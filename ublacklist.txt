@@ -96,6 +96,12 @@
 *://*.issuecloser.com/*
 *://*.web-dev-qa-db-ja.com/*
 *://*.bytemeta.vip/*
+*://*.errorsandanswers.com/*
+*://*.itnursery.com/*
+*://*.splunktool.com/*
+*://*.tutorialink.com/*
+*://*.igiftidea.com/*
+*://*.dizzycoding.com/*
 
 # Misc Spam
 *://*.medium.website/*
@@ -158,6 +164,15 @@
 *://*.code4it.dev/* # misinformation
 *://*.flaviocopes.com/*
 *://*.codesource.io/*
+*://*.js-tutorials.com/*
+*://*.code-boxx.com/*
+*://*.webmound.com/*
+*://*.positronx.io/*
+*://*.golinuxcloud.com/*
+*://*.nicesnippets.com/*
+*://*.heynode.com/*
+*://*.cluemediator.com/*
+*://*.seegatesite.com/*
 
 # Insights/Stats/Package Info Spam
 *://*.openbase.com/*
@@ -199,3 +214,4 @@
 
 # Blog Spam
 *://*.dunebook.com/*
+*://*.spritely.net/*
