@@ -102,6 +102,7 @@
 *://*.tutorialink.com/*
 *://*.igiftidea.com/*
 *://*.dizzycoding.com/*
+*://*.devsanon.com/*
 
 # Misc Spam
 *://*.medium.website/*
