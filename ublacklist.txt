@@ -130,6 +130,9 @@
 *://*.hiya.digital/*
 *://*.my247webhosting.com/*
 *://*.bookandhost.com/*
+*://*.serversinasia.com/*
+*://*.cityhostusa.com/*
+*://*.bestdedicatedserver.org/*
 
 # PR Companies
 *://*.einnews.com/*
