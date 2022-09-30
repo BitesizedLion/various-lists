@@ -113,6 +113,8 @@
 *://*.brianlovin.com/*
 *://*.izooto.com/*
 *://*.hackingwithswift.com/*
+*://*.truelancer.com/*
+
 
 # Fake Hosting Locations
 *://*.evoxt.com/*
@@ -122,6 +124,12 @@
 *://*.beyondesigns.net/*
 *://*.obiztek.com/*
 *://*.rootpal.com/*
+*://*.astrahosting.com/*
+*://*.greenlandtelephone.com/*
+*://*.cloudhost.cm/*
+*://*.hiya.digital/*
+*://*.my247webhosting.com/*
+*://*.bookandhost.com/*
 
 # PR Companies
 *://*.einnews.com/*
@@ -232,3 +240,7 @@
 *://*.file.net/*
 *://*.techsupportall.com/*
 *://*.gloryittechnologies.com/*
+
+# Hosting/VPN Referral Spam
+*://*.pqsit.com/*
+*://*.solution-assistant.com/*
