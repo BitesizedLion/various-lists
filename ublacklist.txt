@@ -103,6 +103,7 @@
 *://*.igiftidea.com/*
 *://*.dizzycoding.com/*
 *://*.devsanon.com/*
+*://*.askcodes.net/*
 
 # Misc Spam
 *://*.medium.website/*
