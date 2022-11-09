@@ -115,6 +115,8 @@
 *://*.izooto.com/*
 *://*.hackingwithswift.com/*
 *://*.truelancer.com/*
+*://*.file.org/*
+*://app.iskosher.com/*
 
 
 # Fake Hosting Locations
