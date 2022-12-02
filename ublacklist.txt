@@ -120,6 +120,7 @@
 
 # Fake Torrent/Piracy
 *://*.thepiratebay.surf/*
+*://*.streamingjoy.com/*
 
 # Fake Hosting Locations
 *://*.evoxt.com/*
