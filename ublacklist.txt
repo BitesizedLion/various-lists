@@ -118,6 +118,8 @@
 *://*.file.org/*
 *://app.iskosher.com/*
 
+# Fake Torrent/Piracy
+*://*.thepiratebay.surf/*
 
 # Fake Hosting Locations
 *://*.evoxt.com/*
