@@ -254,6 +254,9 @@
 *://*.pqsit.com/*
 *://*.solution-assistant.com/*
 
+# Unless you want memes with watermarks, this should be blacklisted
+*://*.ifunny.co/*
+
 # Fake/Fraudulent Stores
 *://*.3m-us.com/*
 *://*.abercrombie-fitch.shop/*
