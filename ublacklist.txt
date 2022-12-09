@@ -104,6 +104,7 @@
 *://*.dizzycoding.com/*
 *://*.devsanon.com/*
 *://*.askcodes.net/*
+*://*.codesti.com/*
 
 # Misc Spam
 *://*.medium.website/*
@@ -265,6 +266,12 @@
 *://*.supprimer-virus.org/*
 *://*.pcrisk.com/*
 *://*.malwarefixes.com/*
+*://*.supprimer-trojan.com/*
+*://*.cleanupallthreats.com/*
+*://*.malekal.com/*
+*://*.usbfix.net/*
+*://*.myantispyware.com/*
+*://*.easysolvemalware.com/*
 
 # Hosting/VPN Referral Spam
 *://*.pqsit.com/*
