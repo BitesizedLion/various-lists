@@ -263,6 +263,8 @@
 *://*.fixallthreats.com/*
 *://*.sozyaz.com/*
 *://*.supprimer-virus.org/*
+*://*.pcrisk.com/*
+*://*.malwarefixes.com/*
 
 # Hosting/VPN Referral Spam
 *://*.pqsit.com/*
