@@ -251,6 +251,18 @@
 *://*.file.net/*
 *://*.techsupportall.com/*
 *://*.gloryittechnologies.com/*
+*://*.howtoremove.guide/*
+*://*.securedstatus.com/*
+*://*.pigtou.com/*
+*://*.combo-fix.com/*
+*://*.freefixer.com/*
+*://*.unboxhow.com/*
+*://*.virusresearch.org/*
+*://*.viruspup.com/*
+*://*.2-delete-spyware.com/*
+*://*.fixallthreats.com/*
+*://*.sozyaz.com/*
+*://*.supprimer-virus.org/*
 
 # Hosting/VPN Referral Spam
 *://*.pqsit.com/*
