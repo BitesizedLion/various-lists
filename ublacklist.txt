@@ -191,6 +191,8 @@
 *://*.heynode.com/*
 *://*.cluemediator.com/*
 *://*.seegatesite.com/*
+*://*.getdroidtips.com/*
+*://*.mobilekoto.com/*
 
 # Insights/Stats/Package Info Spam
 *://*.openbase.com/*
