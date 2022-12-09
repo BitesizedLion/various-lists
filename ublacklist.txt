@@ -272,6 +272,7 @@
 *://*.usbfix.net/*
 *://*.myantispyware.com/*
 *://*.easysolvemalware.com/*
+*://*.malwaretips.com/*
 
 # Hosting/VPN Referral Spam
 *://*.pqsit.com/*
