@@ -194,6 +194,7 @@
 *://*.seegatesite.com/*
 *://*.getdroidtips.com/*
 *://*.mobilekoto.com/*
+*://*.bezkoder.com/*
 
 # Insights/Stats/Package Info Spam
 *://*.openbase.com/*
