@@ -282,6 +282,9 @@
 # Unless you want memes with watermarks, this should be blacklisted
 *://*.ifunny.co/*
 
+# Trashy question/answer spam
+*://*.quora.com/*
+
 # Fake/Fraudulent Stores
 *://*.3m-us.com/*
 *://*.abercrombie-fitch.shop/*
