@@ -198,6 +198,7 @@
 *://*.multimediaxp.com/*
 *://*.programmingfunda.com/*
 *://*.yahoobaba.net/*
+*://*.mysqltutorial.net/*
 
 # Insights/Stats/Package Info Spam
 *://*.openbase.com/*
