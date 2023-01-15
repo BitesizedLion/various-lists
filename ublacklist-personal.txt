@@ -4,3 +4,4 @@
 *://*.ifunny.co/*
 *://*.issitedownrightnow.com/*
 *://*.you.com/search*
+*://*.chegg.com/*
