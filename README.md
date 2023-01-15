@@ -17,5 +17,5 @@ Currently, the repository contains the following lists:
 * * Blog Spam
 * * Scareware Sites
 * * Hosting/VPN Referral Spam
-* * iFunny
 * * Fake/Fraudulent Stores
+* ublacklist-personal.txt - a list for content I dislike, but shouldn't belong in any of other lists.
