@@ -195,6 +195,7 @@
 *://*.getdroidtips.com/*
 *://*.mobilekoto.com/*
 *://*.bezkoder.com/*
+*://*.multimediaxp.com/*
 
 # Insights/Stats/Package Info Spam
 *://*.openbase.com/*
