@@ -196,6 +196,7 @@
 *://*.mobilekoto.com/*
 *://*.bezkoder.com/*
 *://*.multimediaxp.com/*
+*://*.programmingfunda.com/*
 
 # Insights/Stats/Package Info Spam
 *://*.openbase.com/*
