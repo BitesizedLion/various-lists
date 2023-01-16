@@ -5,3 +5,7 @@
 *://*.issitedownrightnow.com/*
 *://*.you.com/search*
 *://*.chegg.com/*
+
+*://*.globle.org/*
+*://*.globlegame.org/*
+*://*.globle-capitals.com/*
