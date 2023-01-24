@@ -118,6 +118,14 @@
 *://*.truelancer.com/*
 *://*.file.org/*
 *://app.iskosher.com/*
+*://*.filext.com/*
+*://*.fileproinfo.com/*
+*://*.fileviewpro.com/*
+*://*.fileinfo.com/*
+*://*.filemagic.com/*
+*://*.file-extensions.org/*
+*://*.extensionfile.net/*
+*://*.reviversoft.com/*
 
 # Fake Torrent/Piracy
 *://*.thepiratebay.surf/*
