@@ -9,3 +9,5 @@
 *://*.globle.org/*
 *://*.globlegame.org/*
 *://*.globle-capitals.com/*
+
+*://*.castoriscausa.com/*
