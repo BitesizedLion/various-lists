@@ -11,3 +11,4 @@
 *://*.globle-capitals.com/*
 
 *://*.castoriscausa.com/*
+*://*.beermoneyforum.com/*
