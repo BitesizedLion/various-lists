@@ -208,6 +208,7 @@
 *://*.yahoobaba.net/*
 *://*.mysqltutorial.net/*
 *://*.systranbox.com/*
+*://*.websitebuilderinsider.com/*
 
 # Insights/Stats/Package Info Spam
 *://*.openbase.com/*
