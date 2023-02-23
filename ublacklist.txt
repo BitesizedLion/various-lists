@@ -209,6 +209,7 @@
 *://*.mysqltutorial.net/*
 *://*.systranbox.com/*
 *://*.websitebuilderinsider.com/*
+*://*.kili.io/*
 
 # Insights/Stats/Package Info Spam
 *://*.openbase.com/*
