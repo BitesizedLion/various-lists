@@ -252,6 +252,7 @@
 # Blog Spam
 *://*.dunebook.com/*
 *://*.spritely.net/*
+*://*.nmap.online/*
 
 # Scareware Sites
 *://*.softwarekeep.com/*
