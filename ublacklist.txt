@@ -130,6 +130,8 @@
 # Fake Torrent/Piracy
 *://*.thepiratebay.surf/*
 *://*.streamingjoy.com/*
+*://*.bignulled.com/*
+*://*.cloodo.com/*
 
 # Fake Hosting Locations
 *://*.evoxt.com/*
