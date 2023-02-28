@@ -623,3 +623,4 @@
 *://*.zcravestore.com/*
 *://*.zegnasales.com/*
 *://*.zenonesportsde.de/*
+*://*.pratiksunucum.com/*
