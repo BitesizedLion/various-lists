@@ -624,3 +624,7 @@
 *://*.zegnasales.com/*
 *://*.zenonesportsde.de/*
 *://*.pratiksunucum.com/*
+
+# Casino / Dating / Porn redirects
+*://*.rupeemail.in/*
+*://*.fax2email.in/*
