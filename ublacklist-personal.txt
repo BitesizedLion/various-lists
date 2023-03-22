@@ -12,3 +12,6 @@
 
 *://*.castoriscausa.com/*
 *://*.beermoneyforum.com/*
+
+# Misc Spam
+*://*.brianlovin.com/*
