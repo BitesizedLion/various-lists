@@ -9,7 +9,6 @@
 *://*.codingexplained.com/*
 *://*.quick-advisors.com/*
 *://*.laratutorials.com/*
-*://*.geeksforgeeks.org/*
 *://*.codegrepper.com/*
 *://*.tutorialrepublic.com/*
 *://*.iqcode.com/*
@@ -112,7 +111,6 @@
 *://groups.google.com/*
 *://books.google.com/*
 *://books.google.se/*
-*://*.brianlovin.com/*
 *://*.izooto.com/*
 *://*.hackingwithswift.com/*
 *://*.truelancer.com/*
@@ -222,18 +220,6 @@
 *://*.cnpython.com/*
 *://*.gitplanet.com/*
 *://*.openweaver.com/*
-
-# Pinterest (& Clones)
-*://*.flipboard.com/*
-/.pinterest\.*/
-*://*.pinterest.com/*
-*://*.apple.com/(*bid429047995*)
-*://play.google.com/store/apps/details?id=com.pinterest*
-*://instagram.com/pinterest/
-*://*.reddit.com/r/Pinterest/
-*://*.medium.com/@Pinterest_Engineering
-*://www.facebook.com/PinterestUK/
-*://apps.microsoft.com/store/detail/9PFHDSF91B9R*
 
 # Solution/Fixes Spam
 *://*.windowsreport.com/*
