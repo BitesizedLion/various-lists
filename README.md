@@ -12,10 +12,10 @@ Currently, the repository contains the following lists:
 * * Google Maps / Yelp Mirrors
 * * "How To" Spam
 * * Insights/Stats/Package Info Spam
-* * Pinterest (& Clones)
 * * Solution/Fixes Spam
 * * Blog Spam
 * * Scareware Sites
 * * Hosting/VPN Referral Spam
 * * Fake/Fraudulent Stores
 * ublacklist-personal.txt - a list for content I dislike, but shouldn't belong in any of other lists.
+* ublacklist-pinboards.txt - a list for pinboard sites, such as pinterest, flipboard (possibly other mentions of them aswell, such as google play)
