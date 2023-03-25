@@ -210,6 +210,7 @@
 *://*.systranbox.com/*
 *://*.websitebuilderinsider.com/*
 *://*.kili.io/*
+*://*.astucesmobiles.com/*
 
 # Insights/Stats/Package Info Spam
 *://*.openbase.com/*
