@@ -1110,3 +1110,11 @@
 *://*.d-elect.cfd/*
 *://*.d-arise.cfd/*
 *://*.d-track.cfd/*
+*://*.alibihatsandmore.it/*
+*://*.vdc.spaziof1.it/*
+*://*.puntoexpress.es/*
+*://*.danielkoomen.nl/*
+*://*.movingtalent.nl/*
+*://*.fisquis.es/*
+*://*.menslibera.it/*
+*://portal.osce.gob.pe/var/*
