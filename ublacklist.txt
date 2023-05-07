@@ -1118,3 +1118,6 @@
 *://*.fisquis.es/*
 *://*.menslibera.it/*
 *://portal.osce.gob.pe/var/*
+
+# Fake tools
+*://*.pingserverstatus.com/*
