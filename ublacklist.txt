@@ -1118,9 +1118,11 @@
 *://*.fisquis.es/*
 *://*.menslibera.it/*
 *://portal.osce.gob.pe/var/*
-*//*.pushy.pw/*
+*://*.pushy.pw/*
 
 # Fake tools
 *://*.pingserverstatus.com/*
 *://*.pastedownload.com/*
-*//*.worksheetgenius.com/*
+*://*.worksheetgenius.com/*
+*://*.visualfractions.com/*
+*://*.calc-online.xyz/*
