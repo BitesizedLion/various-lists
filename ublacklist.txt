@@ -126,6 +126,7 @@
 *://*.reviversoft.com/*
 *://*.exefiles.com/*
 *://*.computerhope.com/*
+*://*.systemexplorer.net/*
 
 # Fake Torrent/Piracy
 *://*.thepiratebay.surf/*
