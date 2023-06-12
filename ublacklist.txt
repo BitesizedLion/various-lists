@@ -124,6 +124,8 @@
 *://*.file-extensions.org/*
 *://*.extensionfile.net/*
 *://*.reviversoft.com/*
+*://*.exefiles.com/*
+*://*.computerhope.com/*
 
 # Fake Torrent/Piracy
 *://*.thepiratebay.surf/*
@@ -237,6 +239,9 @@
 *://*.whatsnewinpublishing.com/*
 *://*.geeksgyaan.com/*
 *://*.maketecheasier.com/*
+*://huntercyber.amebaownd.com/*
+*://*.800error.com/*
+*://*.solvusoft.com/*
 
 # Blog Spam
 *://*.dunebook.com/*
@@ -1126,3 +1131,6 @@
 *://*.worksheetgenius.com/*
 *://*.visualfractions.com/*
 *://*.calc-online.xyz/*
+
+# Feed spam
+*://*.rssing.com/*
