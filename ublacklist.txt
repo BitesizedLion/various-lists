@@ -1135,3 +1135,4 @@
 
 # Feed spam
 *://*.rssing.com/*
+*://news.knowledia.com/*
