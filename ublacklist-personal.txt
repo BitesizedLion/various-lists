@@ -17,6 +17,7 @@
 # Misc Spam
 *://*.brianlovin.com/*
 *://*.geeksforgeeks.org/*
+*://*.brabilligmat.se/*
 
 # Unsure if valid
 *://*.d-*.cfd/*
