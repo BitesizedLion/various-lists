@@ -19,5 +19,8 @@
 *://*.geeksforgeeks.org/*
 *://*.brabilligmat.se/*
 
+# Scam
+*://*.ubuy.com.se/*
+
 # Unsure if valid
 *://*.d-*.cfd/*
