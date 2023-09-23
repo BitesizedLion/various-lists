@@ -287,6 +287,7 @@
 *://*.myantispyware.com/*
 *://*.easysolvemalware.com/*
 *://*.malwaretips.com/*
+*://*.safetydetectives.com/*
 
 # Hosting/VPN Referral Spam
 *://*.pqsit.com/*
