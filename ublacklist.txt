@@ -216,6 +216,12 @@
 *://*.websitebuilderinsider.com/*
 *://*.kili.io/*
 *://*.astucesmobiles.com/*
+*://*.winxdvd.com/*
+*://*.besttamiltutorials.blogspot.com/*
+*://*.i-mediasky.com/*
+*://*.macxdvd.com/*
+*://*.leawo.org/entips*
+*://*.cisdem.com/resource*
 
 # Insights/Stats/Package Info Spam
 *://*.openbase.com/*
