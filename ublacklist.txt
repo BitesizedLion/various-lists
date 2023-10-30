@@ -153,6 +153,7 @@
 *://*.serversinasia.com/*
 *://*.cityhostusa.com/*
 *://*.bestdedicatedserver.org/*
+*://*.navicosoft.com/*
 
 # PR Companies
 *://*.einnews.com/*
