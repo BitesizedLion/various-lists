@@ -233,6 +233,8 @@
 *://*.cnpython.com/*
 *://*.gitplanet.com/*
 *://*.openweaver.com/*
+*://*.siteindices.com/*
+*://*.similarweb.com/website/*
 
 # Solution/Fixes Spam
 *://*.windowsreport.com/*
