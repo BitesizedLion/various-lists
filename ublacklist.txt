@@ -1148,3 +1148,10 @@
 # Feed spam
 *://*.rssing.com/*
 *://news.knowledia.com/*
+
+# File mirrors
+*://*.uptodown.com/*
+*://*.softonic.com/*
+*://*.aptoide.com/*
+*://*.softpedia.com/*
+*://*.softportal.com/*
