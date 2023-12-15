@@ -236,6 +236,9 @@
 *://*.siteindices.com/*
 *://*.similarweb.com/website/*
 *://*.w3snoop.com/*
+*://*.websiteoutlook.com/*
+*://*.neverbounce.com/company* # maybe switch category later.
+*://website.informer.com/*
 
 # Solution/Fixes Spam
 *://*.windowsreport.com/*
