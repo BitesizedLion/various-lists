@@ -235,6 +235,7 @@
 *://*.openweaver.com/*
 *://*.siteindices.com/*
 *://*.similarweb.com/website/*
+*://*.w3snoop.com/*
 
 # Solution/Fixes Spam
 *://*.windowsreport.com/*
