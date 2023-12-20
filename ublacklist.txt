@@ -129,6 +129,10 @@
 *://*.exefiles.com/*
 *://*.computerhope.com/*
 *://*.systemexplorer.net/*
+*://*.kiminip.com/*
+*://*.ip-whois-lookup.com/*
+*://*.ntunhs.net/*
+*://*.ipshu.com/*
 
 # Fake Torrent/Piracy
 *://*.thepiratebay.surf/*
