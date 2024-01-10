@@ -106,6 +106,7 @@
 *://*.codesti.com/*
 *://*.programcreek.com/*
 *://*.appsloveworld.com/*
+*://*.itecnote.com/*
 
 # Misc Spam
 *://*.medium.website/*
