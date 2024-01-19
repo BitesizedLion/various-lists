@@ -306,6 +306,7 @@
 *://*.easysolvemalware.com/*
 *://*.malwaretips.com/*
 *://*.safetydetectives.com/*
+*://*.enigmasoftware.com/*
 
 # Hosting/VPN Referral Spam
 *://*.pqsit.com/*
