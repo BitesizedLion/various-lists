@@ -269,6 +269,7 @@
 *://*.dunebook.com/*
 *://*.spritely.net/*
 *://*.nmap.online/*
+*://*.linkedingeniee.com/*
 
 # Scareware Sites
 *://*.softwarekeep.com/*
