@@ -107,6 +107,7 @@
 *://*.programcreek.com/*
 *://*.appsloveworld.com/*
 *://*.itecnote.com/*
+*://*.lightrun.com/*
 
 # Misc Spam
 *://*.medium.website/*
