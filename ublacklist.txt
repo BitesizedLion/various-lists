@@ -229,6 +229,7 @@
 *://*.macxdvd.com/*
 *://*.leawo.org/entips*
 *://*.cisdem.com/resource*
+*://*.copyprogramming.com/*
 
 # Insights/Stats/Package Info Spam
 *://*.openbase.com/*
