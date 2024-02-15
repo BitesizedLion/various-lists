@@ -246,6 +246,7 @@
 *://*.websiteoutlook.com/*
 *://*.neverbounce.com/company* # maybe switch category later.
 *://website.informer.com/*
+*://*.atlaq.com/*
 
 # Solution/Fixes Spam
 *://*.windowsreport.com/*
