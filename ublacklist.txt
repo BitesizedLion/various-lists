@@ -247,6 +247,7 @@
 *://*.neverbounce.com/company* # maybe switch category later.
 *://website.informer.com/*
 *://*.atlaq.com/*
+*://*.eightify.app/*
 
 # Solution/Fixes Spam
 *://*.windowsreport.com/*
