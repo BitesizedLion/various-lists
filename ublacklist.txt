@@ -230,6 +230,8 @@
 *://*.leawo.org/entips*
 *://*.cisdem.com/resource*
 *://*.copyprogramming.com/*
+*://*.shape.host/*
+
 
 # Insights/Stats/Package Info Spam
 *://*.openbase.com/*
