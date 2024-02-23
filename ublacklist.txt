@@ -1,4 +1,4 @@
-# StackOverflow/Github Mirrors
+# StackOverflow/Github/AI Mirrors
 *://*.thewebdev.info/*
 *://*.pakainfo.com/*
 *://*.includehelp.com/*
@@ -108,6 +108,7 @@
 *://*.appsloveworld.com/*
 *://*.itecnote.com/*
 *://*.lightrun.com/*
+*://*.codemate.bot/*
 
 # Misc Spam
 *://*.medium.website/*
