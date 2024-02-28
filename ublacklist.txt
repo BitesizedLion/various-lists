@@ -1173,3 +1173,9 @@
 *://*.aptoide.com/*
 *://*.softpedia.com/*
 *://*.softportal.com/*
+
+# Bad news sources
+*://*.hstoday.us/*
+*://*.bnnbreaking.com/*
+*://*.cyberdaily.au/*
+
