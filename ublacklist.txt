@@ -113,6 +113,9 @@
 *://*.peporno.com/*
 *://*.edureka.co/*
 *://*.syntaxfix.com/*
+*://*.digitaltreed.com/*
+*://*.intellipaat.com/*
+*://*.webmastercampus.com/*
 
 # Misc Spam
 *://*.medium.website/*
