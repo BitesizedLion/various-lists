@@ -116,6 +116,21 @@
 *://*.digitaltreed.com/*
 *://*.intellipaat.com/*
 *://*.webmastercampus.com/*
+*://*.qa-stack.pl
+*://*.qastack.cn
+*://*.qastack.co.in
+*://*.qastack.com.br
+*://*.qastack.com.ua
+*://*.qastack.es
+*://*.qastack.fr
+*://*.qastack.id
+*://*.qastack.it
+*://*.qastack.jp
+*://*.qastack.kr
+*://*.qastack.mx
+*://*.qastack.net.bd
+*://*.qastack.pk
+*://*.qastack.vn
 
 # Misc Spam
 *://*.medium.website/*
