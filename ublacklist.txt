@@ -110,6 +110,9 @@
 *://*.lightrun.com/*
 *://*.codemate.bot/*
 *://*.kausteret.com/*
+*://*.peporno.com/*
+*://*.edureka.co/*
+*://*.syntaxfix.com/*
 
 # Misc Spam
 *://*.medium.website/*
