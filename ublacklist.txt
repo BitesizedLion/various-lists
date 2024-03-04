@@ -273,7 +273,7 @@
 *://*.cisdem.com/resource*
 *://*.copyprogramming.com/*
 *://*.shape.host/*
-
+*://*.corbettsoftware.com/*
 
 # Insights/Stats/Package Info Spam
 *://*.openbase.com/*
