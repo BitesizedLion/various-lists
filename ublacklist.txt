@@ -131,6 +131,13 @@
 *://*.qastack.net.bd
 *://*.qastack.pk
 *://*.qastack.vn
+*://*.stackovercoder.com/*
+*://*.stackovercoder.com.de/*
+*://*.stackovercoder.fr/*
+*://*.stackovercoder.id/*
+*://*.stackovercoder.pl/*
+*://*.stackovercoder.ru/*
+*://*.stackovercoder.es/*
 
 # Misc Spam
 *://*.medium.website/*
