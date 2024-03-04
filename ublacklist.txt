@@ -142,7 +142,7 @@
 *://*.javaprogrammingforums.com/*
 *://*.windmissing.github.io/*
 *://*.cnblogs.com/*
-*://*.blog.csdn.net/*
+*://*.csdn.net/*
 *://*.mrsecond.cn/*
 *://*.mycodedoc.com/*
 *://*.4ijk.com/*
