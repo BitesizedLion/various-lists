@@ -138,6 +138,18 @@
 *://*.stackovercoder.pl/*
 *://*.stackovercoder.ru/*
 *://*.stackovercoder.es/*
+*://*.docfactory.com/*
+*://*.javaprogrammingforums.com/*
+*://*.windmissing.github.io/*
+*://*.cnblogs.com/*
+*://*.blog.csdn.net/*
+*://*.mrsecond.cn/*
+*://*.mycodedoc.com/*
+*://*.4ijk.com/*
+*://*.cloud.tencent.com/developer/article/*
+*://*.javacup.ir/*
+*://*.51cto.com/*
+*://*.epoooll.com/*
 
 # Misc Spam
 *://*.medium.website/*
