@@ -109,6 +109,7 @@
 *://*.itecnote.com/*
 *://*.lightrun.com/*
 *://*.codemate.bot/*
+*://*.kausteret.com/*
 
 # Misc Spam
 *://*.medium.website/*
