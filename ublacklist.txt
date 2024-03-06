@@ -150,6 +150,8 @@
 *://*.javacup.ir/*
 *://*.51cto.com/*
 *://*.epoooll.com/*
+*://*.github1s.com/*
+*://*.gitstar-ranking.com/*
 
 # Misc Spam
 *://*.medium.website/*
