@@ -152,6 +152,8 @@
 *://*.epoooll.com/*
 *://*.github1s.com/*
 *://*.gitstar-ranking.com/*
+*://*.wyzant.com/*
+*://zhuanlan.zhihu.com/*
 
 # Misc Spam
 *://*.medium.website/*
