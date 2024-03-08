@@ -321,6 +321,7 @@
 *://*.spritely.net/*
 *://*.nmap.online/*
 *://*.linkedingeniee.com/*
+*://*.ezyzip.com/*
 
 # Scareware Sites
 *://*.softwarekeep.com/*
