@@ -154,6 +154,7 @@
 *://*.gitstar-ranking.com/*
 *://*.wyzant.com/*
 *://zhuanlan.zhihu.com/*
+*://*.answeroverflow.com/*
 
 # Misc Spam
 *://*.medium.website/*
