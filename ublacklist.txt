@@ -182,6 +182,7 @@
 *://*.ip-whois-lookup.com/*
 *://*.ntunhs.net/*
 *://*.ipshu.com/*
+*://*.glarity.app/*
 
 # Fake Torrent/Piracy
 *://*.thepiratebay.surf/*
