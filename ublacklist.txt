@@ -183,6 +183,7 @@
 *://*.ntunhs.net/*
 *://*.ipshu.com/*
 *://*.glarity.app/*
+*://*.flashintel.ai/*
 
 # Fake Torrent/Piracy
 *://*.thepiratebay.surf/*
