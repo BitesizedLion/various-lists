@@ -184,6 +184,7 @@
 *://*.ipshu.com/*
 *://*.glarity.app/*
 *://*.flashintel.ai/*
+*://*.happyscribe.com/*
 
 # Fake Torrent/Piracy
 *://*.thepiratebay.surf/*
