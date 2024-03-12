@@ -14,10 +14,17 @@
 *://*.castoriscausa.com/*
 *://*.beermoneyforum.com/*
 
-# Misc Spam
+# Misc Spam, not interested, sketchy
 *://*.brianlovin.com/*
 *://*.geeksforgeeks.org/*
 *://*.brabilligmat.se/*
+*://*.unburntwitch.com/*
+*://*.ohdeargodbees.tumblr.com/*
+*://*.crashoverridenetwork.com/*
+*://*.antholojam.com/*
+*://*.gamesareforeveryone.com/*
+*://*.beesgo.biz/*
+*://*.sortingh.at/*
 
 # Scam
 *://*.ubuy.com.se/*
