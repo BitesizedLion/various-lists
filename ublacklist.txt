@@ -185,6 +185,8 @@
 *://*.glarity.app/*
 *://*.flashintel.ai/*
 *://*.happyscribe.com/*
+*://*.shiksha.com/*
+*://*.codedamn.com/*
 
 # Fake Torrent/Piracy
 *://*.thepiratebay.surf/*
