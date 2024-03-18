@@ -328,6 +328,7 @@
 *://*.nmap.online/*
 *://*.linkedingeniee.com/*
 *://*.ezyzip.com/*
+*://*.domainhostingblog.com/*
 
 # Scareware Sites
 *://*.softwarekeep.com/*
