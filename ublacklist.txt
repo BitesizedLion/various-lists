@@ -187,6 +187,11 @@
 *://*.happyscribe.com/*
 *://*.shiksha.com/*
 *://*.codedamn.com/*
+*://*.hackernews.ryansolid.workers.dev/*
+*://*.hn.premii.com/*
+*://*.hackernews-islands-axum.fly.dev/*
+*://*.hn.liveviews.cc/*
+*://*.hackernews-kappa.vercel.app/*
 
 # Fake Torrent/Piracy
 *://*.thepiratebay.surf/*
