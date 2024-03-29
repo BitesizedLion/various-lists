@@ -334,6 +334,7 @@
 *://*.linkedingeniee.com/*
 *://*.ezyzip.com/*
 *://*.domainhostingblog.com/*
+*://*.medevel.com/*
 
 # Scareware Sites
 *://*.softwarekeep.com/*
