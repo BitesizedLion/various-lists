@@ -155,6 +155,7 @@
 *://*.wyzant.com/*
 *://zhuanlan.zhihu.com/*
 *://*.answeroverflow.com/*
+*://*.cocalc.com/*
 
 # Misc Spam
 *://*.medium.website/*
@@ -192,6 +193,7 @@
 *://*.hackernews-islands-axum.fly.dev/*
 *://*.hn.liveviews.cc/*
 *://*.hackernews-kappa.vercel.app/*
+*://*.lemon8-app.com/*
 
 # Fake Torrent/Piracy
 *://*.thepiratebay.surf/*
