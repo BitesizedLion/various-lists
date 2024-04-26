@@ -387,6 +387,9 @@
 # Trashy question/answer spam
 *://*.quora.com/*
 
+# Literally just trash
+*://*.hackers-arise.com/*
+
 # Fake/Fraudulent Stores
 *://*.3m-us.com/*
 *://*.abercrombie-fitch.shop/*
