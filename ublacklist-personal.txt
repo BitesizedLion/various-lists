@@ -31,3 +31,5 @@
 
 # Unsure if valid
 *://*.d-*.cfd/*
+
+*//*.lilysthings.org/*
