@@ -194,6 +194,7 @@
 *://*.hn.liveviews.cc/*
 *://*.hackernews-kappa.vercel.app/*
 *://*.lemon8-app.com/*
+*://*.memorialnews.info/*
 
 # Fake Torrent/Piracy
 *://*.thepiratebay.surf/*
