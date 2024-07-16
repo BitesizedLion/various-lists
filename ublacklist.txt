@@ -1244,3 +1244,5 @@
 *://*.bnnbreaking.com/*
 *://*.cyberdaily.au/*
 
+# Fake APK Downloaders / Ranks high for them
+*://*.memuplay.com/*
