@@ -156,6 +156,8 @@
 *://zhuanlan.zhihu.com/*
 *://*.answeroverflow.com/*
 *://*.cocalc.com/*
+*://*.githubhelp.com/*
+*://*.securitycipher.com/*
 
 # Misc Spam
 *://*.medium.website/*
