@@ -1248,3 +1248,8 @@
 
 # Fake APK Downloaders / Ranks high for them
 *://*.memuplay.com/*
+
+# Post theft
+*://*.pcnews.ru/*
+*://*.se7en.ws/*
+*://*.habr.com/*
