@@ -197,6 +197,7 @@
 *://*.hackernews-kappa.vercel.app/*
 *://*.lemon8-app.com/*
 *://*.memorialnews.info/*
+*://*.locall.host/*
 
 # Fake Torrent/Piracy
 *://*.thepiratebay.surf/*
