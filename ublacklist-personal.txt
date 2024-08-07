@@ -33,3 +33,8 @@
 *://*.d-*.cfd/*
 
 *//*.lilysthings.org/*
+
+# Low quality
+*://*.ndtv.com/*
+*://*.hindustantimes.com/*
+*://*.telegraphindia.com/*
