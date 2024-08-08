@@ -198,6 +198,7 @@
 *://*.lemon8-app.com/*
 *://*.memorialnews.info/*
 *://*.locall.host/*
+*://download.cnet.com/*
 
 # Fake Torrent/Piracy
 *://*.thepiratebay.surf/*
