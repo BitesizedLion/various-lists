@@ -158,6 +158,7 @@
 *://*.cocalc.com/*
 *://*.githubhelp.com/*
 *://*.securitycipher.com/*
+*://*.thedispatch.ai/*
 
 # Misc Spam
 *://*.medium.website/*
