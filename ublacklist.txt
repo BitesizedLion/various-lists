@@ -200,6 +200,7 @@
 *://*.memorialnews.info/*
 *://*.locall.host/*
 *://download.cnet.com/*
+*://*.viralblogs.co.uk/*
 
 # Fake Torrent/Piracy
 *://*.thepiratebay.surf/*
