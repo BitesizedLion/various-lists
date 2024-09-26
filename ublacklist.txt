@@ -1245,6 +1245,7 @@
 *://*.aptoide.com/*
 *://*.softpedia.com/*
 *://*.softportal.com/*
+*://*.softonic.*/*
 
 # Bad news sources
 *://*.hstoday.us/*
