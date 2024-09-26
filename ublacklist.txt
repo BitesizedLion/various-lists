@@ -159,6 +159,7 @@
 *://*.githubhelp.com/*
 *://*.securitycipher.com/*
 *://*.thedispatch.ai/*
+*://*.pudn.com/*
 
 # Misc Spam
 *://*.medium.website/*
