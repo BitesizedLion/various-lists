@@ -202,6 +202,7 @@
 *://*.locall.host/*
 *://download.cnet.com/*
 *://*.viralblogs.co.uk/*
+*://*.easy-peasy.ai/*
 
 # Fake Torrent/Piracy
 *://*.thepiratebay.surf/*
