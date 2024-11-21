@@ -209,6 +209,9 @@
 *://*.streamingjoy.com/*
 *://*.bignulled.com/*
 *://*.cloodo.com/*
+*://*.swesubhd.se/*
+*://*.dreamfilmsw.se/*
+*://*.dreamfilm.org/*
 
 # Fake Hosting Locations
 *://*.evoxt.com/*
