@@ -212,6 +212,8 @@
 *://*.swesubhd.se/*
 *://*.dreamfilmsw.se/*
 *://*.dreamfilm.org/*
+*://*.dreamfilmsw.org/*
+*://*.swe-filmer.se/*
 
 # Fake Hosting Locations
 *://*.evoxt.com/*
