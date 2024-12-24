@@ -25,6 +25,7 @@
 *://*.gamesareforeveryone.com/*
 *://*.beesgo.biz/*
 *://*.sortingh.at/*
+*://*.expatcircle.com/*
 
 # Scam
 *://*.ubuy.com.se/*
