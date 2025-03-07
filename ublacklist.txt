@@ -203,6 +203,7 @@
 *://download.cnet.com/*
 *://*.viralblogs.co.uk/*
 *://*.easy-peasy.ai/*
+*://*.thecybersecguru.com/*
 
 # Fake Torrent/Piracy
 *://*.thepiratebay.surf/*
