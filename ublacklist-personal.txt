@@ -39,3 +39,7 @@
 *://*.ndtv.com/*
 *://*.hindustantimes.com/*
 *://*.telegraphindia.com/*
+
+# News spam
+*://*.firstpost.com/*
+*://*.sportskeeda.com/*
